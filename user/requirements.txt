@@ -1,0 +1,11 @@
+pytest
+pytest-mock
+pygithub
+httplib2
+google-cloud-monitoring
+python-terraform
+structlog
+prometheus-metrics-proto
+boto3
+slackclient
+google-python-cloud-debugger
